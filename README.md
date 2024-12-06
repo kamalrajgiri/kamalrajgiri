@@ -1,6 +1,6 @@
 - 👋 Hi, I’m kamal Raj Giri . Welcome to my GitHub profile!
 - 👀 I’m interested in designing ,coding and learning new technology
-- 🌱 I’m currently enrolled in bacholer in computer engineering at Far Western University
+- 🌱 I’m currently enrolled in bacholer of computer engineering at Far Western University
 - 💞️ I’m looking to solve exciting problems or collaborate on impactful projects? Feel free to reach out! 💡
 - Email: girikamal2087@gmail.com
 
